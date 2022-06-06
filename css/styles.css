@@ -1,0 +1,128 @@
+body{
+	backgoud-color: #F6F8F9
+}
+h2{
+	font-size: 30px;
+	font-family: 'Nuosu SIL';
+	text-transform: uppercase;
+	font-weight: 700;
+}
+p{
+	padding: 66px 40px;
+	color: #A6ADB4;
+	font-size: 15px;
+	font-family: 'Nuosu SIL';
+}
+
+/*Header*/
+
+.header{
+	margin: auto;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 18px 0px 17px 20px;
+	margin-right: 92px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+}
+.page-links-home{
+	display: inline-block;
+	vertical-align: middle;
+	color: #343638;
+	padding: 20px 0px 18px 0px;
+	margin-right: 27px;
+	font-family: 'Nuosu SIL';
+	font-size: 20px;
+	text-transform: uppercase;
+}
+.page-links{
+	display: inline-block;
+	vertical-align: middle;
+	color: #343638;
+	font-size: 11px;
+	padding: 20px 0px 18px 0px;
+	margin-right: 22px;
+	ont-family: 'Nuosu SIL';
+	font-size: 20px;
+	text-transform: uppercase;
+	}
+.home-color{
+	color: #343638;
+}
+.link-color{
+	color: #343638;
+	opacity: 0.5;
+}
+.portrait{
+	display: inline-block;
+	vertical-align: middle;
+	padding: 11px 0px 9px 0px;
+	margin-left: 40px;
+}
+
+/*Upper Section*/
+
+.upper-container{
+	height: 410px;
+	width: 1160px;
+	margin: 0 auto;
+	}
+	.top-padding{
+		padding-top: 25px;
+	}
+.lower-top-padding{
+	padding-top: 58px;
+}
+.lake{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	height: 350px;
+	width: 360px;
+	background-color: #FFFFFF;
+}
+.umbrellas{
+	display: inline-block;
+	vertical-align: top;
+	margin: 40px 40px 0px 40px;
+	height: 350px;
+	width: 360px;
+	background-color: #FFFFFF;
+}
+.arctic{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+	height: 350px;
+	width: 360px;
+	background-color: #FFFFFF;
+}
+
+/*Lower Section*/
+
+.lower-section{
+	height: 969px;
+	width: 1160px;
+	margin: 0 auto;
+}
+
+.lower-left-container{
+	width: 760px;
+	display: inline-block;
+}
+.lower-right-container{
+	width: 360px;
+	margin: 40px 0px 0px 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+.big-image{
+	margin-top: 40px;
+}
+.small-image{
+	margin-bottom: 102px;
+}
